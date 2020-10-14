@@ -1,0 +1,4 @@
+.component.MyComponent .hello{color:red;cursor:pointer}.component.MyComponent .hello.clicked{color:green}
+.component.FileReader .filename{margin-top:20px}.component.FileReader pre{background-color:#444;color:#eee;padding:10px;border-radius:10px}
+
+/*# sourceMappingURL=app.css.map*/
